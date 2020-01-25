@@ -5,4 +5,5 @@
 - optimizing_code_holidy_gifts.ipynb
 
 ### Introduction to Object Oriented Programmin
-- shirt_exercise.ipynbg
+- shirt_exercise.ipynb
+- pants_exercise.ipynb
