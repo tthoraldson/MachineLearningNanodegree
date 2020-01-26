@@ -9,3 +9,4 @@
 - pants_exercise.ipynb
 - gaussian_code_exercise.ipynb
 - magic_methods.ipynb
+- inheritance_exercise_clothing.ipynb
