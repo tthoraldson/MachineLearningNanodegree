@@ -7,3 +7,4 @@
 ### Introduction to Object Oriented Programmin
 - shirt_exercise.ipynb
 - pants_exercise.ipynb
+- gaussian_code_exercise.ipynb
