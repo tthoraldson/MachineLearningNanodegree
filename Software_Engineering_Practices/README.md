@@ -8,3 +8,4 @@
 - shirt_exercise.ipynb
 - pants_exercise.ipynb
 - gaussian_code_exercise.ipynb
+- magic_methods.ipynb
